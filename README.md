@@ -1,8 +1,6 @@
 # Evilreg v1.0
 
-   Author: [thelinuxchoice](github.com/thelinuxchoice)  Twitter: [@linux_choice](twitter.com/linux_choice)
-
-### Read the license before using any part from this code :) 
+## Read the license before using any part from this code :) 
 
 * Reverse shell using Windows Registry file (.reg).
 
@@ -35,5 +33,10 @@ bash evilreg.sh
 
 ### Donate!
 Pay a coffee:
+
 [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url)
+
+Author: [thelinuxchoice](github.com/thelinuxchoice)  
+
+Twitter: [@linux_choice](twitter.com/linux_choice)
 
