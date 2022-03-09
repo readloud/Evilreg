@@ -1,8 +1,6 @@
 # Evilreg v1.0
 
-  [] Author: [thelinuxchoice](github.com/thelinuxchoice)
- 
-  [] Twitter: [@linux_choice](twitter.com/linux_choice)
+   Author: [thelinuxchoice](github.com/thelinuxchoice)  Twitter: [@linux_choice](twitter.com/linux_choice)
 
 ### Read the license before using any part from this code :) 
 
